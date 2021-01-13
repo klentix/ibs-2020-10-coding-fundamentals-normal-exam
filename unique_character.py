@@ -13,7 +13,7 @@
 # ["n", "g", "r", "m"]
 # #
 # #
-import sys
+
 
 def unique_character(word):
 
